@@ -6,3 +6,4 @@ PasarAreverse = () => {
 }
 
 console.log(PasarAreverse());
+
